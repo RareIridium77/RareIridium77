@@ -15,6 +15,7 @@ When I'm not busy - I'm probably prototyping weird ideas or optimizing something
 
 ### Projects:
 - Reforger Framework - Frame work for my GMOD addons under [Reforger] tag.
+- RLFX - Enhanced VFX/SFX for LVS vehicle base.
 
 ### Contact
 Reach me through GitHub issues or discussions on relevant repos or [Steam](https://steamcommunity.com/profiles/76561199078206115/ "my steam profile")
